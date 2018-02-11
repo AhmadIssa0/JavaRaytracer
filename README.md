@@ -1,1 +1,2 @@
-# JavaRaytracer
+# Raytracer in Java
+
