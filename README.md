@@ -5,5 +5,13 @@ Click [here](https://github.com/XikaiZhao/ray-tracer) for a new version in C++, 
 ## Examples
 
 <p align="center">
-  <img src="ray13.png?raw=true"/>
+  <img src="stereo.PNG?raw=true" width=500/>
+</p>
+
+<p align="center">
+  <img src="ray13.PNG?raw=true" width=500/>
+</p>
+
+<p align="center">
+  <img src="trefoil.png?raw=true" width=500/>
 </p>
